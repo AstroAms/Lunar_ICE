@@ -1,4 +1,4 @@
-# 📦 Requirements
+# Requirements for this Project
 
 This project requires **Python 3.10+** (recommended) along with the following Python packages.
 
