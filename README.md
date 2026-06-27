@@ -37,7 +37,7 @@ pillow>=10.0.0 \
 reportlab>=4.2.0
 ```
 
-## Python Version
+## Python VersioN
 
 This project is tested with:
 
