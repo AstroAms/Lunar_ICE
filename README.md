@@ -57,8 +57,6 @@ Lunar-Ice-Mission/
 
 ├── app.py                          # Main Streamlit application
 
-│
-
 ├── modules/
 
 │   ├── radar_processor.py          # CPR, DOP, ice detection, volume estimation
@@ -69,15 +67,11 @@ Lunar-Ice-Mission/
 
 │   └── report_generator.py         # PDF mission report (ReportLab)
 
-│
-
 ├── data/
 
 │   ├── dfsar/                      # Place DFSAR radar files here (.tif / .img / .zip)
 
 │   └── ohrc/                       # Place OHRC image files here (.tif / .img / .zip)
-
-│
 
 ├── reports/                        # Auto-generated PDF reports saved here
 
@@ -85,13 +79,9 @@ Lunar-Ice-Mission/
 
 ├── assets/                         # Logos, images, static assets
 
-│
-
 ├── .streamlit/
 
 │   └── config.toml                 # Raises upload limit to 1 GB for large datasets
-
-│
 
 ├── requirements.txt                # Python dependencies
 
